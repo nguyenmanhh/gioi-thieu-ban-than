@@ -4,8 +4,6 @@
 
 # !\[Ảnh đại diện của tôi](avt.jpg)
 
-# 
-
 # \## Giới thiệu bản thân
 
 # 
