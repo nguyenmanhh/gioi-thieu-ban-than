@@ -2,7 +2,7 @@
 
 # 
 
-# !\[Ảnh đại diện](avatar.jpg)
+# !\[Ảnh đại diện của tôi](avt.jpg)
 
 # 
 
